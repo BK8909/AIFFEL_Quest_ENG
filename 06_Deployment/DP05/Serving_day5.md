@@ -1,4 +1,4 @@
-# 모델 배포 개론 - Day 5 프로젝트 1 체크포인트 답변
+# 모델 배포 개론 - Day 5 프로젝트 체크포인트 답변 & 회고
 
 **주제:** California Housing 정형 데이터 기반 주택 가격 예측 서비스  
 **구성:** PyTorch 회귀 모델 → FastAPI 추론 API → Streamlit 입력 폼 → 통합 테스트
